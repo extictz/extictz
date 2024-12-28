@@ -7,7 +7,7 @@ Te doy la bienvenida a mi perfil de GitHub. Soy un **pentester junior** con una 
 
 ### **Lenguajes de Programación:**
 - **Java** 🖥️
-
+- **Python** 🖥️
 ### **Herramientas de Pentesting:**
 
 ---
