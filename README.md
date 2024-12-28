@@ -24,9 +24,7 @@ Estoy ampliando mis habilidades y conocimientos en las siguientes áreas:
 - **Técnicas avanzadas de explotación** 🔓
 - **Seguridad de aplicaciones web** 🕸️
 - **Análisis de malware** 🦠
-- **ejptv2 y OSCP** 💻
-
-[Más sobre mis estudios y logros aquí](#)
+- **OSCP** 💻
 
 ---
 
@@ -37,18 +35,12 @@ Estoy ampliando mis habilidades y conocimientos en las siguientes áreas:
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Repositorios
 
-Aquí hay algunos proyectos que he estado desarrollando y compartiendo:
+Aquí hay algunos repositorios que he estado desarrollando y compartiendo:
 
-- **[🔧 Proyecto de Personalización de Entornos](#)**  
+- **[🔧 Uso de nmap en metasploit](#nmap-metasploit)**  
   Personalización de entornos en **Kali Linux** y **Parrot OS** para mejorar el flujo de trabajo en pruebas de penetración.
-
-- **[💻 Pentesting en Aplicaciones Web](#)**  
-  Herramientas y técnicas para llevar a cabo pruebas de penetración en aplicaciones web.
-
-- **[🦠 Análisis de Malware](#)**  
-  Investigación y detección de malware usando técnicas avanzadas.
 
 ---
 
@@ -56,9 +48,7 @@ Aquí hay algunos proyectos que he estado desarrollando y compartiendo:
 
 Si te interesa colaborar o discutir sobre tecnología, ¡no dudes en contactarme!
 
-- **Email:** [Tu Email Aquí]
-- **Twitter:** [@TuTwitter](#)
-- **LinkedIn:** [TuLinkedIn](#)
+- **Email:** [arturomartinortega17@gmail.com]
 
 ---
 
