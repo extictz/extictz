@@ -39,8 +39,7 @@ Estoy ampliando mis habilidades y conocimientos en las siguientes áreas:
 
 Aquí hay algunos repositorios que he estado desarrollando y compartiendo:
 
-- **[🔧 Uso de nmap en metasploit]([#nmap-metasploit](https://github.com/extictz/nmap-metasploit))**  
-  Personalización de entornos en **Kali Linux** y **Parrot OS** para mejorar el flujo de trabajo en pruebas de penetración.
+- **[🔧 Uso de nmap en metasploit](https://github.com/extictz/nmap-metasploit)**  
 
 ---
 
