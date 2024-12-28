@@ -1,5 +1,5 @@
 # ✨ ¡Hola! Soy Arturo ✨  
-Te doy la bienvenida a mi perfil de GitHub. Soy un **pentester junior** con una Maestría en **Java** y una gran pasión por la **ciberseguridad**. Me encanta trabajar en proyectos que implican la **personalización de entornos** en sistemas como **Parrot OS** y **Kali Linux**.
+Te doy la bienvenida a mi perfil de GitHub. Soy un **pentester junior** con una Maestría en **Java** y una gran pasión por la **ciberseguridad**.
 
 ---
 
