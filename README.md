@@ -26,10 +26,7 @@ Te doy la bienvenida a mi perfil de GitHub. Soy un **pentester junior** con una 
 
 Estoy ampliando mis habilidades y conocimientos en las siguientes áreas:
 
-- **Técnicas avanzadas de explotación** 🔓
-- **Seguridad de aplicaciones web** 🕸️
-- **Análisis de malware** 🦠
-- **OSCP** 💻
+- En plena preparación para la OSCP, OSWP y KLCP 💻
 
 ---
 
