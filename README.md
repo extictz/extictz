@@ -1,4 +1,4 @@
-# ✨ ¡Hola! Soy Arturo ✨  
+# ✨ ¡Hola! Soy Extict ✨  
 Te doy la bienvenida a mi perfil de GitHub. Soy un **pentester junior** con una Maestría en **Java** y una gran pasión por la **ciberseguridad**.
 
 ---
@@ -48,8 +48,6 @@ Aquí hay algunos repositorios que he estado desarrollando y compartiendo:
 ## 📫 Cómo Contactarme
 
 Si te interesa colaborar o discutir sobre tecnología, ¡no dudes en contactarme!
-
-- **Email:** [arturomartinortega17@gmail.com]
 
 ---
 
