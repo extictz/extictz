@@ -1,11 +1,10 @@
-# ✨ ¡Hola! Soy Extict ✨  
+# ✨ ¡Hola! Soy Extict ✨
 Te doy la bienvenida a mi perfil de GitHub. Soy un **pentester junior** con una Maestría en **Java** y una gran pasión por la **ciberseguridad**.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5FF47&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hacker+on+the+path+to+OSCP+)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5FF47&width=435&lines=%F0%9F%9A%80+Discovering+vulnerabilities)](https://git.io/typing-svg)
 ---
-
 ![Blue and Black Simple Coming Soon Banner](https://github.com/user-attachments/assets/184e7727-9e07-49ac-9ead-423fc7282ca3)
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006683&width=435&lines=ETHICAL+HACKER+TO+OSCP)](https://git.io/typing-svg)
+
 ---
 
 ## 🛠️ Habilidades y Herramientas
