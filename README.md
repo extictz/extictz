@@ -3,6 +3,12 @@ Te doy la bienvenida a mi perfil de GitHub. Soy un **pentester junior** con una 
 
 ---
 
+![Blue and Black Simple Coming Soon Banner](https://github.com/user-attachments/assets/184e7727-9e07-49ac-9ead-423fc7282ca3)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C1C83&width=435&lines=PENTESTER)](https://git.io/typing-svg)
+
+---
+
 ## 🛠️ Habilidades y Herramientas
 
 ### **Lenguajes de Programación:**
