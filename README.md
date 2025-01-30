@@ -41,6 +41,13 @@ Estoy ampliando mis habilidades y conocimientos en las siguientes áreas:
 
 ---
 
+## ☁️ Certificaciones de Amazon AWS
+
+### 1. AWS Certified Cloud Practitioner
+ ![aws-cloud-quest-cloud-practitioner (1)](https://github.com/user-attachments/assets/1b679e0c-ca84-4d10-aad9-d987665ef1cb) 
+
+---
+
 ## 🚀 Repositorios
 
 Aquí hay algunos repositorios que he estado desarrollando y compartiendo:
