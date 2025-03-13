@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a junior pentester with a Master's degree in 
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hacker+on+the+path+to+OSCP+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D8BFD8&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hacker+on+the+path+to+OSCP+)](https://git.io/typing-svg)
 
 ## 🛠️ Skills & Tools
 
