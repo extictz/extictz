@@ -1,12 +1,10 @@
 # ⬛ Hello! I'm Extict ⬛  
 Welcome to my GitHub profile! I am a junior pentester with a Master's degree in Java and a strong passion for cybersecurity.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/10001b0e-7265-4e92-b3ac-ef4d25887281" width="1000">
-</p>
+![snek_video](https://github.com/user-attachments/assets/ea1d66bb-dcd5-4a7c-9bff-acb935870003)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B0082&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hacker+on+the+path+to+OSCP+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Road+to+OSCP;Red+Team+Pentester)](https://git.io/typing-svg)
 
 
 ## 🛠️ Skills & Tools
