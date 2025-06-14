@@ -1,4 +1,4 @@
-# ⬛🟥🛡️ Hello! I'm Extict 🛡️🟥⬛
+# 🟥 Hello! I'm Extict 🟥
 Welcome to my GitHub profile! I am a pentester.
 
 ![snek_video](https://github.com/user-attachments/assets/ea1d66bb-dcd5-4a7c-9bff-acb935870003)
