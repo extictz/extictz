@@ -58,6 +58,3 @@ Welcome to my GitHub profile! I am a pentester.
 ---
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-FF0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000) ![Windows](https://img.shields.io/badge/Windows-FF0000?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000)
-
-exit(0)
-
